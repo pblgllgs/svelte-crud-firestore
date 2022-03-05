@@ -18,6 +18,8 @@
     "svelte": "^3.0.0"
   },
   "dependencies": {
-    "sirv-cli": "^2.0.0"
+    "firebase": "^9.6.8",
+    "sirv-cli": "^2.0.0",
+    "sweetalert2": "^11.4.4"
   }
 }
